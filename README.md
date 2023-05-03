@@ -1,4 +1,3 @@
-
 # Overview
 The data used for this visualization was downloaded from kaggle.com. 
 As a relatively small data, I used the power query editor in PowerBi to analyze and visualize the insights. 
